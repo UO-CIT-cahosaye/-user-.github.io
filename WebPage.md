@@ -5,8 +5,8 @@
 ### [Project & Lab Descriptions]([https://pages.github.com/](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/CIT%20Projects%26Labs.md)).
 
 ### Projects
-- [Project 1]([p1.zip](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/p1.zip))
-- [Project 2]([p2.zip](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%202))
+- [Project 1](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%201)
+- [Project 2](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%202)
 - [Project 3](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%203)
 - [Project 4](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%204)
 - [Project 6](https://github.com/UO-CIT-cahosaye/CIT-Webpage-Chace-Fery.github.io/blob/main/Project%206)
